@@ -3,7 +3,7 @@
   "short_name": "recycling-ad",
   "start_url": "/recycling-advisor/",
   "display": "standalone",
-  "background_color": "#6366f1",
+  "background_color": "#ffffff",
   "theme_color": "#7c3aed",
   "scope": "/recycling-advisor/"
 }
